@@ -1,8 +1,8 @@
 ### Hi there! I'm Alexis. 👋
 
-## A dreamer, a challenge-taker and loves to code. I am currenly working towards becoming a successful devceloper
+A dreamer, a challenge-taker, and loves to code. I am currently working towards becoming a successful developer.
 
-I have a passion in creating software that would stand out and create a difference in this world. I also love graphic design in general, I've made several posters and infographics which are here for you to check out. On the side, I'm a dancer and a history buff that likes reading stuff about geography.
+I am passionate about creating software that would stand out and create a difference in this world. I also love graphic design in general, I've made several posters and infographics which are here for you to check out. On the side, I'm a dancer and a history buff who likes reading stuff about geography.
 
 <!--
 **alexiscacayuran/alexiscacayuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
