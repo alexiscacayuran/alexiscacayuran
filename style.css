@@ -76,12 +76,26 @@
 
 #projects a:hover {
   background-color: #ff004d !important;
-  border: #ff004d !important;
+  border: solid 1px #ff004d !important;
   color: white;
 }
 
 #design-portfolio button:hover {
   background-color: #ff004d !important;
-  border: #ff004d !important;
+  border: solid 1px #ff004d !important;
   color: white;
 }
+
+#design-portfolio img{
+  -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+
+#design-portfolio img:hover{
+	-webkit-transform: scale(1.05);
+	transform: scale(1.05);
+}
+
